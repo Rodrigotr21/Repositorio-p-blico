@@ -1,5 +1,5 @@
 import streamlit as st
-import psycopg
+import psycopg2
 import seaborn as sns
 import pandas as pd
 import matplotlib.pyplot as plt
